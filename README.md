@@ -3,7 +3,7 @@
  <img  width="400px" src="https://github.com/AbdallahHemdan/HamDola2048Game/blob/master/images/logo.png" alt="2048 logo"></a>
 </p>
 
-## 2048 🎮 ([Click to try 🚀](https://www.google.com/))
+## 2048 🎮 ([Click to try 🚀](https://aakash-sondagar.github.io/2048/))
 ---
 A clone of 1024 (https://play.google.com/store/apps/details?id=com.rmaalouf.a1024&amp;hl=en_IN&amp;gl=US)
 
