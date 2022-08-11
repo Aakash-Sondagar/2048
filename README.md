@@ -3,10 +3,6 @@
  <img  width="400px" src="https://github.com/AbdallahHemdan/HamDola2048Game/blob/master/images/logo.png" alt="2048 logo"></a>
 </p>
 
-<h3 align="center">2048</h3>
-<div align="center">
-
----
 ## 2048 🎮 ([Click to try 🚀](https://www.google.com/))
 ---
 A clone of 1024 (https://play.google.com/store/apps/details?id=com.rmaalouf.a1024&amp;hl=en_IN&amp;gl=US)
@@ -21,5 +17,10 @@ __If two tiles of the same number collide while moving, they will merge into a t
 ## 📷 ScreenShots 
 <div align="center">
 <img src="https://github.com/AbdallahHemdan/HamDola2048Game/blob/master/screenshot/1.png">
-<div>
----
+<hr>
+<img src="https://github.com/AbdallahHemdan/HamDola2048Game/blob/master/screenshot/2.png">
+<hr>
+<img src="https://github.com/AbdallahHemdan/HamDola2048Game/blob/master/screenshot/3.png">
+<hr>
+</div>
+
