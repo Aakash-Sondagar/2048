@@ -16,11 +16,11 @@ __If two tiles of the same number collide while moving, they will merge into a t
 ---
 ## 📷 ScreenShots 
 <div align="center">
-<img src="https://github.com/AbdallahHemdan/HamDola2048Game/blob/master/screenshot/1.png">
+<img src="https://github.com/Aakash-Sondagar/2048/blob/main/screenshot/1.png">
 <hr>
-<img src="https://github.com/AbdallahHemdan/HamDola2048Game/blob/master/screenshot/2.png">
+<img src="https://github.com/Aakash-Sondagar/2048/blob/main/screenshot/2.png">
 <hr>
-<img src="https://github.com/AbdallahHemdan/HamDola2048Game/blob/master/screenshot/3.png">
+<img src="https://github.com/Aakash-Sondagar/2048/blob/main/screenshot/3.png">
 <hr>
 </div>
 
